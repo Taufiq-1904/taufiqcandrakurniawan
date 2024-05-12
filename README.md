@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Taufiq
 #### I am Computer Science Student
-![I am Computer Science Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Computer Science Student]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/rmariuzzo/github-banner.git))
 
 I made this project for experiment in my GitHub profile.
 
